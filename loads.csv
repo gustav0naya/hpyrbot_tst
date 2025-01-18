@@ -1,0 +1,5 @@
+reference_number,origin,destination,equipment_type,rate,commodity
+12345,Chicago,New York,Dry Van,1500,Furniture
+67890,Los Angeles,Dallas,Flatbed,2000,Construction Materials
+54321,Miami,Atlanta,Refrigerated,2500,Perishable Foods
+98765,Eureka,Oakland,Flatbed,3500,Lumber
