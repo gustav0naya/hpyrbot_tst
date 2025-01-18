@@ -2,6 +2,8 @@
 
 This repository contains the API code for the Carrier Sales Interaction API Project. The API is designed to process load data and interact with the "loads" API. Below is an overview of the project structure, deployment details, and instructions for running and testing the code.
 
+The project contains some extraneous code files that were automatically generated when I created the Express project in IntelliJ IDEA IDE. 
+
 ## Project Structure
 
 The API code is organized into three main sections, for the 'loads' API and for the proxy server for the FMCSA API:
